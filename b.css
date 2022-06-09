@@ -44,14 +44,14 @@ h3 {
 
 }
 
-.send a {
+.send button {
 
     background-color: #81c784;
     border-radius: 32px;
     margin-left: 36px;
     padding: 10px 50px;
     color: white;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 .logo {
