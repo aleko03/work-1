@@ -115,21 +115,14 @@ nav {
     margin-left: 15px;
 }
 
-.soc {
-    position: relative;
-    /* position: absolute;
-    top: 360px;
-    left: -914px;
-    border: 0px;
-    padding: 10px 63px;
-    background-color: #00ffff00;
+.soc a {
+    
     color: #fff;
-    cursor: pointer; */
+    cursor: pointer;
 }
 
-.soc i{
-    position: absolute;
-}
+
+
 
 .burger {
     display: none;
@@ -159,5 +152,6 @@ nav {
     .text a {
         display: none;
     }
+
 
 }
