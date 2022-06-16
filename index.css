@@ -83,6 +83,6 @@ h5 {
 @media (max-width:714px) {
     
     .card img{
-        display: none;
+    top: -15px;
     }
 }
