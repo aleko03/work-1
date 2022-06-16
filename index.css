@@ -51,15 +51,14 @@
 
 .card-box {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    box-shadow: 0px 1px 1px #6d4c4117;
     padding: 60px;
 
 }
 
 .col-3 {
     width: 33.33333%;
+    display: flex;
+    justify-content: center;
 }
 
 h5 {
@@ -82,9 +81,6 @@ h5 {
 }
 
 @media (max-width:714px) {
-    .card-box {
-        display: block;
-    }
     .card img{
         display: none;
     }
