@@ -4,7 +4,7 @@
 }
 
 
-.navbar{
+.navbar {
     box-shadow: 0 6px;
 }
 
@@ -12,7 +12,7 @@
     color: #fff;
 }
 
-.home{
+.home {
     display: block;
     color: white;
     text-decoration: none;
@@ -81,8 +81,8 @@ h5 {
 }
 
 @media (max-width:714px) {
-    
-    .card img{
-    top: -15px;
+
+    .card img {
+        top: -15px;
     }
 }
