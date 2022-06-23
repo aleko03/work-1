@@ -85,8 +85,11 @@ a[href="#mysection"]{
     width: 90%;
 }
 
-form{
+/* form{
     margin: auto;
     margin-right: 0;
-}
+} */
 
+.contact{
+    line-height: 40px;
+}
