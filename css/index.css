@@ -30,6 +30,7 @@ a {
 
 .contact a:first-child i {
     color: green;
+    background-color: #091320;
 }
 
 .soc a {
