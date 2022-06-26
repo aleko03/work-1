@@ -1,45 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
 
-header{
+header {
     background-image: url('https://play-lh.googleusercontent.com/v-aDmFmJrVQu7spC2NxXRx9WP5-l-BE0NJdNXOIroNybPEfewkJW9xWUiVRGX1z7Juo');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     /* height: 1068px; */
- }
+}
 
-.navbar-brand, .a{
+.navbar-brand,
+.a {
     font-size: 26px;
     padding-left: 126px;
-    }
+}
 
-.nav-item, .a{
-   font-family: 'Raleway', sans-serif;
-   font-size: 10px;
-   padding-top: 28px;
+.nav-item,
+.a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    padding-top: 28px;
 }
 
 
-.navbar li a{
+.navbar li a {
     color: #ffffff;
-    margin-right: 38px; 
+    margin-right: 38px;
 }
 
-.min-100{
+.min-100 {
     min-height: 450px
 }
 
 
-.text span {    
+.text span {
     font-family: 'Raleway', sans-serif;
     font-size: 60px;
 }
+
 /* .text h3 {
     font-family: 'Raleway', sans-serif;
     font-size: 60px;
 } */
 
 
-.btns a{
+.btns a {
     border: 1px solid white;
 }
