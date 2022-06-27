@@ -46,3 +46,57 @@ header {
 .btns a {
     border: 1px solid white;
 }
+
+a[href="#mysection"] {
+    bottom: 31%;
+    font-size: 21px;
+}
+
+.w-75>h3::after {
+    content: "";
+    width: 18px;
+    height: 2px;
+    background-color: #2196f3;
+    display: block;
+    margin: 38px auto;
+}
+
+.servcard img {
+    width: 50%;
+}
+
+.btn a{
+    background-color: #43a047cc;
+    width: 15%;
+}
+
+.cen a{
+    background-color: #43a047cc;
+}
+  
+.down{
+    margin-top: 140px;
+}
+
+
+.carousel-inner{
+    height: 350px;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/53c54574e4b046e5507a54a7/130f1ef7-48fe-4319-8c7d-4669fe569ecd/AV8+STUDIO_VA8_CLIFF+VILLA_2.jpeg?format=500w');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+
+.carousel-item img{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    /* border:4px solid #fff; */
+} 
+
+.carousel-item{
+    color: #fff;
+}
