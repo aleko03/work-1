@@ -93,7 +93,7 @@ a[href="#mysection"] {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    
+
 }
 
 .carousel-item {
@@ -177,75 +177,76 @@ a[href="#mysection"] {
     min-height: 100%;
 }
 
-.mycard{
+.mycard {
     min-height: 113px;
     padding-top: 14px;
     padding-left: 18px;
     color: green;
 }
 
-.card-body{
+.card-body {
     line-height: 37px;
 }
 
-.btn.mybtn{
+.btn.mybtn {
     position: relative;
     border-radius: 0;
     background-color: #4caf50;
     display: flex;
 }
 
-.btn i{
+.btn i {
     position: absolute;
     right: 14px;
 }
 
-#centr{
+#centr {
     padding-left: 200px;
     padding-right: 200px;
 }
 
-.map{
+.map {
     margin-top: 102px;
 }
 
-.text{
+.text {
     margin-top: 44px;
 }
 
-.text h3{
+.text h3 {
     line-height: 103px;
 }
 
-.cen{
+.cen {
     padding-top: 38px;
 }
-.cen a{
+
+.cen a {
     padding: 9px 37px;
 }
 
 
-.dark{
+.dark {
     background-image: url(https://i1.pickpik.com/photos/298/310/359/mountain-lake-person-looking-view-preview.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#img{
+#img {
     background-color: #000000cf;
 }
 
-#alekto{
+#alekto {
     font-size: 9px;
 }
 
-#i{
+#i {
     padding-right: 8px;
     color: #4caf50;
 }
 
-#top{
+#top {
     min-height: 400px;
     align-items: baseline;
 }
@@ -258,9 +259,9 @@ a[href="#mysection"] {
     }
 }
 
-@media (max-width:442px){
-    #centr{
+@media (max-width:442px) {
+    #centr {
         padding-left: 0;
-    padding-right: 0;
+        padding-right: 0;
     }
 }
