@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
 
 header {
-    background-image: url('https://play-lh.googleusercontent.com/v-aDmFmJrVQu7spC2NxXRx9WP5-l-BE0NJdNXOIroNybPEfewkJW9xWUiVRGX1z7Juo');
+    background-image: url(https://cdn.1tv.ge/app/uploads/2020/12/1608283003-1920-2-1-1024x683.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -243,6 +243,11 @@ a[href="#mysection"] {
 #i{
     padding-right: 8px;
     color: #4caf50;
+}
+
+#top{
+    min-height: 400px;
+    align-items: baseline;
 }
 
 @media (max-width:1240px) {
